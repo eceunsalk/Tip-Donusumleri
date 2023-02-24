@@ -1,0 +1,11 @@
+/Users/ece/Desktop/C Sharp Çalışmaları/Tip Donusumleri/bin/Debug/net7.0/Tip Donusumleri
+/Users/ece/Desktop/C Sharp Çalışmaları/Tip Donusumleri/bin/Debug/net7.0/Tip Donusumleri.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/Tip Donusumleri/bin/Debug/net7.0/Tip Donusumleri.pdb
+/Users/ece/Desktop/C Sharp Çalışmaları/Tip Donusumleri/obj/Debug/net7.0/Tip Donusumleri.csproj.AssemblyReference.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/Tip Donusumleri/obj/Debug/net7.0/Tip Donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ece/Desktop/C Sharp Çalışmaları/Tip Donusumleri/obj/Debug/net7.0/Tip Donusumleri.AssemblyInfoInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/Tip Donusumleri/obj/Debug/net7.0/Tip Donusumleri.AssemblyInfo.cs
+/Users/ece/Desktop/C Sharp Çalışmaları/Tip Donusumleri/obj/Debug/net7.0/Tip Donusumleri.csproj.CoreCompileInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/Tip Donusumleri/obj/Debug/net7.0/Tip Donusumleri.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/Tip Donusumleri/obj/Debug/net7.0/refint/Tip Donusumleri.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/Tip Donusumleri/obj/Debug/net7.0/Tip Donusumleri.pdb
